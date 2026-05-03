@@ -15,7 +15,7 @@
     "@aws-sdk/client-resource-groups-tagging-api": "^3.490.0",
     "@aws-sdk/client-organizations": "^3.490.0",
     "@azure/arm-resources": "^5.2.0",
-    "@azure/arm-policyinsights": "^4.1.0",
+    "@azure/arm-policyinsights": "^6.0.0",
     "@google-cloud/security-center": "^9.2.1"
   },
   "devDependencies": {
